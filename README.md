@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Alperen
 - 👀 I’m interested in game making
 - 🌱 I’m currently learning Unity, C language and C# basis
+- ⚠️ My repos are hidden, you cant reach them without contact me
 - 📫 You can reach me from: alperen_0150@hotmail.com
 
 <!---
