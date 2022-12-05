@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @alperenavan882
-- 👀 I’m interested in UE and Unity
+- 👋 Hi, I’m Alperen
+- 👀 I’m interested in game making
 - 🌱 I’m currently learning Unity, C language and C# basis
 - 📫 You can reach me from: alperen_0150@hotmail.com
 
