@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alperen
--    I'm currently a software engineering 1st year student.
-- 👀 I’m interested in game making    
+- 🏫 I'm currently a software engineering 1st year student at Hasan Kalyoncu University
+- 👀 I’m interested in game making and gaming
 - 🌱 I’m currently learning Unity, C language and C# basis
 - ⚠️ My repos are hidden, you cant reach them without contact me
 - 📫 You can reach me from: alperen_0150@hotmail.com
