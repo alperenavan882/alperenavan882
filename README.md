@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alperen
-- 🏫 I'm currently a software engineering 3rd year student at Hasan Kalyoncu University
+- 🏫 I'm currently a software engineering 3rd year student
 - 👀 I’m interested in embedded systems and systems
 - 🌱 I’m currently searching about embedded systems
 - ⚠️ My repos are hidden, you cant reach them without contact me
